@@ -128,6 +128,6 @@ F_drag = Drag Gain × velocity = 10 × v
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `MATLAB` `Simulink` `PID Controller` `Control Systems` `Cruise Control` `Vehicle Dynamics` `Modelling & Simulation`
